@@ -67,5 +67,7 @@ This classification logic, while extremely simplified, mimics the decision bound
 
 Although this model is not trained using real data and does not generalize beyond the example input, it serves as a foundational exercise to explore the principles of CNNs. 
 
+**OUTPUT:**
 
+<img width="855" height="594" alt="Image" src="https://github.com/user-attachments/assets/d2baa149-7a6c-4679-84a6-6622c8858dfb" />
 
